@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1
+https://vid-egc.xnxx-cdn.com/aIpTsRiUorooIzcpFv7gsw==,1701973248/videos/hls/47/99/28/479928ccce1fc1dd64bde05dd8384c1c/hls-360p.m3u8
+#EXTINF:-2
+https://cdn77-vid.xnxx-cdn.com/kUfS5ioDhIUmRBnyJ54Fsw==,1701973339/videos/hls/c6/5c/a6/c65ca65b6c2abc271d8f641d2eff9df4/hls-360p-311a4.m3u8
+#EXTINF:-3
+https://vid-egc.xnxx-cdn.com/V-gqDMieJBV7O4ny1fFdnQ==,1701973572/videos/hls/fc/f8/0b/fcf80b035af40ec958d2910453d1a9a5/hls-480p.m3u8
+
